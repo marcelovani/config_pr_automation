@@ -1,0 +1,10 @@
+repo:
+  controller: config_pr.repo_controller.github
+  repo_url: aaa
+  repo_user: marcelovani
+  repo_name: config_pr_automation
+commit_messages:
+  update: 'Updated config @config_name.yml'
+  create: 'Created config @config_name.yml'
+  delete: 'Deleted config @config_name.yml'
+  rename: 'Renamed config from @config_name.yml'
