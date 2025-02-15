@@ -2,13 +2,13 @@ _core:
   default_config_hash: ijfbzDTN4CbE7Sr-6ubWzy_t1vH4OtU1doNCLssVz-4
 langcode: en
 uuid: d1f5169f-e8f2-497a-8515-79c169caca26
-name: 'Drupal site'
+name: 'Drupal site II'
 mail: drupal@localhost.com.br
 slogan: ''
 page:
   403: ''
   404: ''
-  front: /
+  front: /user
 admin_compact_mode: false
 weight_select_max: 100
 default_langcode: en
