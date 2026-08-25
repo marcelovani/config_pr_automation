@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: 8Dt5RwcCjBWPI26uQwNdylRsMslnf_lXx8DlHKso6BQ
+langcode: en
+uuid: 75fa99d8-c060-430e-8297-3df9bb4aaf4e
+name: 'Test Site'
+mail: simpletest@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /admin/welcome
+weight_select_max: 100
+default_langcode: en
+mail_notification: null
